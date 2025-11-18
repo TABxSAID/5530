@@ -9,7 +9,7 @@ e) All pandas operations: select, filter, rename, mutate, arrange, groupby+summa
 
 ### How to run
 1. Put the original `train.csv` in `data_raw/`
-2. Open the notebook `problem_1.ipynb`
+2. Open the notebook `Used_Cars_Price_Analysis.ipynb`
 3. Running all cells will automatically creates:
    - `data_clean/clean_data.csv`
    - `reports/summary.md` (top cities by average price)
