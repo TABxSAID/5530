@@ -3,8 +3,8 @@
 ### What the notebook does (all 5 tasks)
 a) Missing values handling  
 b) Remove units (kmpl, CC, bhp)  
-c) One-hot encode Fuel_Type & Transmission
-d) New feature, **Car_Age**
+c) One-hot encode Fuel_Type & Transmission  
+d) New feature, **Car_Age**  
 e) All pandas operations: select, filter, rename, mutate, arrange, groupby+summarize
 
 ### How to run
