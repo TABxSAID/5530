@@ -1,5 +1,5 @@
 | Statistic           | Population | Bootstrap Average |
 |---------------------|------------|-------------------|
-| Mean Blood Pressure | 69.11      | 69.18             |
-| Std Blood Pressure  | 19.36      | 19.08             |
+| Mean Blood Pressure | 72.39      | 72.38             |
+| Std Blood Pressure  | 12.10      | 12.05             |
 | 98th percentile     | 99.32      | 97.92             |
