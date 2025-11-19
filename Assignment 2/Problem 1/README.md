@@ -1,6 +1,6 @@
 # Used Cars Price Analysis
 
-### What the notebook does (all 5 tasks)
+### What the notebook does:
 a) Missing values handling  
 b) Remove units (kmpl, CC, bhp)  
 c) One-hot encode Fuel_Type & Transmission  
