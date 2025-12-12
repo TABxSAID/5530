@@ -20,12 +20,9 @@ This project analyzes e-commerce user behavior from a dataset of over 4.2 millio
 - **A/B**: Randomized simulation with t-test.
 
 ## Key Insights
-- Users mostly view products; purchases are rare.
-- Popular categories: electronics.smartphone, appliances.
+- Users mostly view products; purchases are rare (96% views, 93% cart abandonment).
+- Popular categories: electronics.smartphone, appliances (Electronics: 43% traffic, smartphones top subcategory). 
 - Recommendations use collaborative filtering with time features.
-
-- 96% views, 93% cart abandonment
-- Electronics: 43% traffic, smartphones top subcategory
 - Recommender Precision@5: 0.123
 - Segments: 84% browsers, 14% buyers, 2% abandoners
 - Optimal buy hour: 1 AM
