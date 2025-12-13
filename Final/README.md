@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains the complete final project notebook for CS-5530 (Fall 2025).  
+This repository contains the complete final project notebook for CS-5530 Principles of Data Science (Fall 2025).  
 The notebook demonstrates core data-science concepts using a **reproducible, personalized** workflow for Breast Cancer dataset (binary target).
 
 ## Sections included
